@@ -3,10 +3,11 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
     "@stripe/stripe-js": "^1.54.1",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3",
     "stripe": "^12.10.0"
   }
 }
